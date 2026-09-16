@@ -1,5 +1,3 @@
-
-```markdown
 # 🌿 Plant Disease Detection
 
 A deep learning-based web application that detects plant diseases from leaf images using image classification.
